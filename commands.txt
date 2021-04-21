@@ -7,3 +7,4 @@ git commit -am "added commands file" - will commit our changes to local reposito
                     or
 git commit -m "added commands file"  - will commit our changes to local repository
 git push origin master - will push our local repo changes to remote repository
+git pull origin mastr - will pull the changes from remote repository to local repository
