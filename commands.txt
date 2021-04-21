@@ -1,0 +1,9 @@
+git init - to initialize the repo
+git remote add origin <url> - it will establish a communication with local repo and remote repo
+git status - shows the file which are untracked(newly added) or modified files
+git add <file name> - to add specific file to local repository
+git add . -to add multiple files to the local repo
+git commit -am "added commands file" - will commit our changes to local repository
+                    or
+git commit -m "added commands file"  - will commit our changes to local repository
+git push origin master - will push our local repo changes to remote repository
